@@ -6,6 +6,10 @@ body{
     width: 700px;
     height: 381px;
 }
+iframe{
+    border-radius: 10px;
+
+}
 .utube-container{
     width: fit-content;
     height: fit-content;

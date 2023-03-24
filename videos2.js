@@ -139,10 +139,7 @@ function login() {
     open("videos2.html");
   } else if (username == "karthik reddy" && password == "karthik974") {
     open("videos2.html");
-  } else if (
-    username == "Dwarasala Mallikarjuna" &&
-    password == "mallikarjuna234"
-  ) {
+  } else if (username == "karthik reddy" && password == "karthik974") {
     open("videos2.html");
   } else if (username == "hemanth kumar" && password == "hemu332") {
     open("videos2.html");
@@ -166,7 +163,9 @@ function login() {
     open("videos2.html");
   } else if (username == "kjyothi" && password == "kjyothi@qlr") {
     open("videos2.html");
-  } else {
+  } else if (username == "jahnavi" && password == "jahnavi455") {
+    open("videos2.html");
+  }else {
     alert("YOU ARE NOT A MEMBER INSIDE BTC 😢");
   }
 }

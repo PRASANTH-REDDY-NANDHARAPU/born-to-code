@@ -143,6 +143,8 @@ body {
      box-shadow: 2px 2px 7px 4px rgba(179, 175, 175, 0.938);
      color: black;
   }
+  
+  
   @media screen and (max-width: 650px) {
     .white-container{
       padding: 3px;

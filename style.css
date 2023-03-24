@@ -72,6 +72,20 @@ body{
     font-weight: bolder;
     font-size: small;
 }
+.nav-recordings{
+  color: aliceblue;
+  width: 100px;
+  text-align: center;
+  background-color:white;
+  color: black;
+  padding-top:2px;
+  padding-bottom:2px;
+  padding-left:8px;
+  padding-right:8px;
+  border-radius: 5px;
+  font-weight: bolder;
+  font-size: small;
+}
 /* -------auto typing text-------- */
 .about-section {
     position: relative;

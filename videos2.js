@@ -167,6 +167,10 @@ function login() {
     open("videos2.html");
   }else if (username == "gowthami" && password == "gowthami455") {
     open("videos2.html");
+  }else if (username == "dasu" && password == "dasu113") {
+    open("videos2.html");
+  }else if (username == "sai" && password == "sai123"){
+    open("videos2.html");
   }else {
     alert("YOU ARE NOT A MEMBER INSIDE BTC 😢");
   }

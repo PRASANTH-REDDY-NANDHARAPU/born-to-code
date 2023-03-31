@@ -7,7 +7,7 @@ body{
     height: 381px;
 }
 iframe{
-    border-radius: 10px;
+    border-radius: 3px;
 
 }
 .utube-container{
@@ -18,7 +18,10 @@ iframe{
     padding: 5px;
     box-shadow: 2px 2px 5px 5px rgb(115, 113, 113);
     margin: 10px auto;
-    border-radius: 10px;
+    border-radius: 2px;
+}
+.ytp-share-icon{
+    display: none;
 }
 @media screen and (max-width: 650px) {
     .container{
